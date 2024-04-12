@@ -12,7 +12,6 @@ document.querySelector('#app').innerHTML = `
     <h1>Hello Simi!</h1>
     <div class="card">
       <button id="increment" type="button"></button>
-      <button id="decrement" type="button"></button>
     </div>
     <p class="read-the-docs">
       Click on the Vite logo to learn more
@@ -21,4 +20,3 @@ document.querySelector('#app').innerHTML = `
 `
 
 setupCounter(document.querySelector('#increment'))
-decrementCounter(document.querySelector('#decrement'))
