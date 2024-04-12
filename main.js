@@ -9,7 +9,7 @@ document.querySelector('#app').innerHTML = `
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
-    <h1>Hello Simi!</h1>
+    <h1>Hello Simi, thank you for your service!</h1>
     <div class="card">
       <button id="increment" type="button"></button>
       <button id="decrement" type="button"></button>
